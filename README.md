@@ -34,7 +34,7 @@ Covers:
 ---
 
 ### ✍️ Image annotation process (more about this in the technical report)
-![Image annotation proecss](.\images\annotation_process.gif)
+<img src=".\images\annotation_process.gif" alt="Image annotation proecss">
 
 ## 📂 Key Files in This Repo
 
