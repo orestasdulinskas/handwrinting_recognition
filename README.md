@@ -33,6 +33,9 @@ Covers:
 
 ---
 
+### ✍️ Image annotation process (more about this in the technical report)
+![Image annotation proecss](.\images\annotation_process.gif)
+
 ## 📂 Key Files in This Repo
 
 | File/Notebook | Description |
@@ -69,6 +72,9 @@ Covers:
 ✅ Self-trained on personal dataset (60+ A5 pages)
 
 ---
+
+### 📱 iOS Shortcut app demo (more about this in the technical report)
+<img src=".\images\ios_app_demo.gif" alt="iOS app demo" width="250">
 
 ## 💡 Future Improvements
 
